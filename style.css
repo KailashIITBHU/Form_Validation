@@ -1,0 +1,28 @@
+body{
+    /* background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%); */
+    background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+}
+.container{
+    margin-top: 150px !important;
+}
+input{
+    margin-top: 20px !important;
+}
+.col-md-5{
+    background-color: white;
+    padding: 20px;
+}
+.btn{
+    margin-top: 20px;
+    float: left;
+}
+.success{
+    border: 3px solid green !important;
+}
+.error{
+    border: 3px solid red !important;
+}
+small{
+    color: red;
+    float: left;
+}
